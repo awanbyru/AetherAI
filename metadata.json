@@ -1,5 +1,5 @@
 {
   "name": "Aether Landing Page",
-  "description": "A beautifully designed, modern, and responsive landing page built with React, TypeScript, and Tailwind CSS to showcase a fictional SaaS product.",
+  "description": "A beautifully designed, modern, and responsive landing page built with Next.js, React, TypeScript, and Tailwind CSS to showcase a fictional SaaS product.",
   "requestFramePermissions": []
 }
